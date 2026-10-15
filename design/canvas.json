@@ -1,0 +1,18 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html",      "x": 0,    "y": 0, "w": 1463, "h": 10600, "title": "Home Page" },
+    { "file": "Equipment.dc.html", "x": 1600, "y": 0, "w": 1463, "h": 3900,  "title": "Fitness Equipment" },
+    { "file": "System.dc.html",    "x": 3200, "y": 0, "w": 1280, "h": 2150,  "title": "Design tokens" }
+  ],
+  "annotations": [
+    { "id": "note-home", "x": 0, "y": -190, "w": 700,
+      "text": "HOME PAGE — rebuilt from your FITFUEL Figma file (node 1:18507).\nSame tokens: Brand/500 #29ABE2, background #333333, MuseoModerno + Albert Sans, Corner/Medium 12px, 1280 max width.\nSame sections in the same order: header, hero carousel, protein partners, Best Deals, features, promo grid, banner, brand strip, CTA, metrics, FAQ, footer." },
+    { "id": "note-added", "x": 740, "y": -190, "w": 700,
+      "text": "FITNESS EQUIPMENT ADDED — four insertions, no new design language:\n1. \"Equipment\" nav item in the header bar\n2. \"Shop Fitness Equipment\" category row (6 tiles)\n3. \"Top Fitness Equipment\" product slider, same card component\n4. Equipment mixed into \"Recommended For You\"" },
+    { "id": "note-equip", "x": 1600, "y": -190, "w": 700,
+      "text": "FITNESS EQUIPMENT PAGE — new category page built entirely from the existing components: same header and footer, same product card, same filter and button styles. Adds the four things equipment needs that supplements do not: freight delivery, assembly booking, lifetime frame warranty, 0% instalments." },
+    { "id": "note-assets", "x": 3200, "y": -190, "w": 640,
+      "text": "Product photography and brand logos in the Figma file are linked assets on figma.com, which this session cannot download. Every product image here is drawn as inline SVG in the right shape and colour — swap in the real photos when you build." }
+  ],
+  "launch": { "view": "canvas" }
+}
